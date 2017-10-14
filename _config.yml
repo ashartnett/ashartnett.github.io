@@ -1,0 +1,42 @@
+# General settings
+title: Allison Spencer Hartnett
+title_html: "Allison S. Hartnett"
+description:
+  en: a PhD student in political science at Oxford
+baseurl: ""
+url: "https://ashartnett.github.io"
+
+langs: ["en"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"
+
+# Author
+author: Allison S. Hartnett
+
+email: allison.hartnett@gmail.com
+twitter_username: allisonhartnett
+github_username: ashartnett
+linkedin_username: allisonhartnett
+author_website: https://ashartnett.github.io
+curriculum:
+  url: assets/cv_allison_s_hartnett.pdf
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+plugins:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock

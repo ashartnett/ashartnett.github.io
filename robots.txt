@@ -1,0 +1,2 @@
+Sitemap: https://ashartnett.github.io/sitemap.xml
+User-agent: *
