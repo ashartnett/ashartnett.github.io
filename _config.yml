@@ -1,8 +1,8 @@
 # General settings
 title: Allison Spencer Hartnett
-title_html: "Allison S. Hartnett"
+title_html: "Allison Spencer Hartnett"
 description:
-  en: a PhD student in political science at Oxford
+  en: Research Fellow at Harvard Kennedy School
 baseurl: ""
 url: "https://ashartnett.github.io"
 
@@ -14,10 +14,10 @@ defaults:
       lang: "en"
 
 # Author
-author: Allison S. Hartnett
+author: Allison Spencer Hartnett
 
-email: allison.hartnett@gmail.com
-twitter_username: allisonhartnett
+email: allison_hartnett@hks.harvard.edu
+twitter_username: as_hartnett
 github_username: ashartnett
 linkedin_username: allisonhartnett
 author_website: https://ashartnett.github.io
