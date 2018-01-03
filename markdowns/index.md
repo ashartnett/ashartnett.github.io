@@ -1,11 +1,19 @@
 ---
 layout: about
-title: Allison S. Hartnett
+title: Allison Spencer Hartnett
 lang: en
 permalink: /
 invisible: true
 seo:
-  title: Allison S. Hartnett, political scientist
+  title: Allison Spencer Hartnett
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+​I am a Research Fellow at the Middle East Initiative at Harvard Kennedy School. DPhil (PhD) candidate in politics at the University of Oxfordwith a specialization in comparative politics and a focus on the Middle East in June 2017. During AY2017-2018, I will be a postdoctoral research fellow with the Middle East Initiative at Harvard Kennedy School of Government's Belfer Center for Science and International Affairs. I will join Yale's political science faculty as an assistant professor in July 2018.
+
+My research interests include political behavior in authoritarian contexts; religion and politics; public opinion in the Muslim and Arab worlds; and survey and experimental methodologies. My work has been published  in Comparative Political Studies, Journal of Conflict Resolution, and Political Science Research and Methods.
+
+My book manuscript, tentatively titled The Psychology of Repression: Identity and Polarization in Authoritarian Regimes,  develops and tests an original theory of state repression and its effects on processes of polarization in authoritarian contexts. The project employs a mixed methods approach, including lab experimental tests of the theory’s micro-foundational psychological mechanism and case studies of repression and polarization in Egypt and Tunisia based on in-depth fieldwork in both countries. 
+
+I served as an AY2007-2008 Fulbright Fellow in Cairo, Egypt and have conducted fieldwork for a variety of projects in Egypt, Lebanon, Tunisia, Uganda, and the United Arab Emirates. I hold a B.A. in Arabic and an M.A. in Arab Studies, both from Georgetown University.
+
+On this website, you will find links to my CV, publications, working papers, and non-academic writing. Please do not hesitate to contact me at Elizabeth_Nugent@hks.harvard.edu with any questions or to request copies of my work. 
