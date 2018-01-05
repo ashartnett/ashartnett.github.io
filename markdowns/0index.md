@@ -1,6 +1,6 @@
 ---
-layout: about
-title:
+layout: cvpage
+title: Home
 lang: en
 permalink: /
 invisible: false
