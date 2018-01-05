@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Allison Spencer Hartnett
+title: 
 lang: en
 permalink: /
 invisible: true
@@ -8,12 +8,10 @@ seo:
   title: Allison Spencer Hartnett
 ---
 
-​I am a Research Fellow at the Middle East Initiative at Harvard Kennedy School. DPhil (PhD) candidate in politics at the University of Oxfordwith a specialization in comparative politics and a focus on the Middle East in June 2017. During AY2017-2018, I will be a postdoctoral research fellow with the Middle East Initiative at Harvard Kennedy School of Government's Belfer Center for Science and International Affairs. I will join Yale's political science faculty as an assistant professor in July 2018.
+​I am a pre-doctoral research fellow at the Middle East Initiative at Harvard Kennedy School of Government's Belfer Center for Science and International Affairs, and am in the final year of my DPhil (PhD) in politics at the University of Oxford with a specialization in comparative politics and a focus on the Middle East and North Africa.
 
-My research interests include political behavior in authoritarian contexts; religion and politics; public opinion in the Muslim and Arab worlds; and survey and experimental methodologies. My work has been published  in Comparative Political Studies, Journal of Conflict Resolution, and Political Science Research and Methods.
+My research interests include inequality and redistribution, authoritarian politics, historical legacies of colonialism, the political economy of state building and development, and quantitative methodology.
 
-My book manuscript, tentatively titled The Psychology of Repression: Identity and Polarization in Authoritarian Regimes,  develops and tests an original theory of state repression and its effects on processes of polarization in authoritarian contexts. The project employs a mixed methods approach, including lab experimental tests of the theory’s micro-foundational psychological mechanism and case studies of repression and polarization in Egypt and Tunisia based on in-depth fieldwork in both countries. 
+My dissertation examines the politics of land redistribution with a focus on how redistributive conflict engenders political instability. I develop and test a theoretical framework of colonial legacies and their effects on long-term state capacity and redistributive conflict.  I use field and archival research to gather qualitative and quantitative data from across MENA during the colonial and post-independence periods. I test my theory using an original large-N dataset of MENA land reform and case studies of redistributive conflict in Jordan and Iraq.
 
-I served as an AY2007-2008 Fulbright Fellow in Cairo, Egypt and have conducted fieldwork for a variety of projects in Egypt, Lebanon, Tunisia, Uganda, and the United Arab Emirates. I hold a B.A. in Arabic and an M.A. in Arab Studies, both from Georgetown University.
-
-On this website, you will find links to my CV, publications, working papers, and non-academic writing. Please do not hesitate to contact me at Elizabeth_Nugent@hks.harvard.edu with any questions or to request copies of my work. 
+I hold an MPhil in Modern Middle Eastern studies (2013) from St. Antony's College, University of Oxford and a BA in Islamic studies and Middle East history from Boston University (2009). Both my MPhil and BA dissertations were awarded distinction by their respective departments. My research has been supported by the American Center for Oriental Research and the Centre for British Research in the Levant, among others. I have conducted archival and field work in Jordan, Morocco, Egypt, the United States, and the United Kingdom.
