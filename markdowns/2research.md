@@ -5,22 +5,25 @@ title: Research
 permalink: /research/
 ---
 
+### Working Papers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"Colonial Legacies, local order, and regime survival in the Middle East and North Africa" (_under review_)
 
-## Subheader
+"European Union Funding and Sub-National Euroscepticism: The Polish Puzzle" with Alexander Gard-Murray (_under review_)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"In the shadows? Informal enterprise and the state in Jordan" with Kristin Fabbe and Steve Monroe
 
-### Subsubheader
+### Encyclopedia Entries
 
-- list
-- list
-- list
+Hartnett, A. (2011) Entries for Energy Policy in Egypt, Jordan, Libya, and Qatar in _Encyclopedia of Energy_. Croton-on-Hudson, New York: Golson Media.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Book Reviews
+
+Hartnett, A. Review of Globalization & Social Movements: Islamism, Feminism and Social Justice, 2nd ed. by Valentine Moghadam. St. Antony's International Review 10, No. 1 (May 2014): 135-37.
 
 
-1. list
-2. list
-3. list
+### Policy Papers
+Wilson, G and Hartnett, A. UK Stabilisation Guidance for the Stabilisation Unit. United Kingdom Department for International Development, June 2016.
+
+Hartnett, A. Protest, Unrest and State-Society Relations. International Peace Institute, June 2014.	
+

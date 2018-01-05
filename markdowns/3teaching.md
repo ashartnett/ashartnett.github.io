@@ -4,22 +4,44 @@ lang: en
 title: Teaching
 permalink: /teaching/
 ---
+I have taught a variety of courses related to my research in political science and Middle East studies. In 2017, I was awarded the distinction of "Best Postgraduate Teacher" from the Oxford University Student Union.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Classes Taught
 
-## Subheader
+### Undergraduate (University of Oxford)
+- Middle East Politics (2013-2017)
+- International Relations of the Middle East (2013-2015)
+- Quantitative Methods for Politics and Sociology (2014-2015)
+- Politics in Europe  (2015, 2017)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am also supervising an undergraduate dissertation on the politics of state-sponsored Islamic education in MENA (2017-2018).
 
-### Subsubheader
+### Graduate
+- Political Economy of Rural Development in MENA (British Institute in Amman, 2016)
 
-- list
-- list
-- list
+## Prospective Classes
+I can teach a number of courses – at the graduate and undergraduate level – related to my research, comparative political economy (CPE), comparative politics (CP), and research methodology. Please contact me for sample syllabi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Comparative Politics
+- Intro to Comparative Politics
+- State Building
+- Democratization
+-Regimes
+
+### Research Related
+- Intro to Middle East Politics 
+- Inequality and Redistribution
+- Historical Institutionalism
+- Political Economy of Development
+- Authoritarian Politics
+
+### Methodology
+- Time Series
+- Causal Inference
+- Fieldwork, Interview, and Archival Methodology
 
 
-1. list
-2. list
-3. list
+
+
+
+-

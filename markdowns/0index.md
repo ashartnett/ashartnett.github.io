@@ -1,14 +1,14 @@
 ---
 layout: about
-title: 
+title:
 lang: en
 permalink: /
-invisible: true
+invisible: false
 seo:
   title: Allison Spencer Hartnett
 ---
 
-​I am a pre-doctoral research fellow at the Middle East Initiative at Harvard Kennedy School of Government's Belfer Center for Science and International Affairs, and am in the final year of my DPhil (PhD) in politics at the University of Oxford with a specialization in comparative politics and a focus on the Middle East and North Africa.
+​I am a pre-doctoral research fellow at the [Middle East Initiative at Harvard Kennedy School of Government's Belfer Center for Science and International Affairs](https://www.belfercenter.org/project/middle-east-initiative), and am in the final year of my DPhil (PhD) in [politics at the University of Oxford](https://www.politics.ox.ac.uk/) with a specialization in comparative politics and a focus on the Middle East and North Africa.
 
 My research interests include inequality and redistribution, authoritarian politics, historical legacies of colonialism, the political economy of state building and development, and quantitative methodology.
 
