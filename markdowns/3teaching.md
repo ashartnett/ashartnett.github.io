@@ -39,9 +39,3 @@ I can teach a number of courses – at the graduate and undergraduate level – 
 - Time Series
 - Causal Inference
 - Fieldwork, Interview, and Archival Methodology
-
-
-
-
-
--
