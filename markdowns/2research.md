@@ -12,11 +12,11 @@ My dissertation contributes a new understanding of redistribution under authorit
 
 ### Working Papers
 
-"Colonial Legacies, local order, and regime survival in the Middle East and North Africa" (_under review_)
+"The Colonial Origins of Land Reform in the Middle East and North Africa" (_under review_)
 
-"European Union Funding and Sub-National Euroscepticism: The Polish Puzzle" with Alexander Gard-Murray (_under review_)
+"European Union Funding and Sub-National Euroscepticism: Evidence from Poland" with Alexander Gard-Murray (_under review_)
 
-"In the shadows? Informal enterprise and the state in Jordan" with Kristin Fabbe and Steve Monroe
+"In the Shadows? Informal enterprise and the State in Jordan" with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University)
 
 ### Encyclopedia Entries
 
