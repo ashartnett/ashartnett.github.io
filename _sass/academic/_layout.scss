@@ -217,7 +217,7 @@
       }
 
       &:hover {
-        border-bottom: 5px $grey-color solid;
+        border-bottom: 5px $brand-color solid;
       }
 
       @include media-query($on-palm) {
