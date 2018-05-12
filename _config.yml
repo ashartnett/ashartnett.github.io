@@ -28,12 +28,11 @@ favicon:
   theme: ffffff
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
-theme: academic
+markdown: kramdown
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 exclude:
   - jekyll_build.sh
   - Gemfile

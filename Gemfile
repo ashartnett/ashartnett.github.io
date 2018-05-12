@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 gemspec
 gem 'jekyll-feed'
-gem 'redcarpet'
+gem 'kramdown'
+gem "jekyll-remote-theme"
 
 gem "github-pages", group: :jekyll_plugins
 
