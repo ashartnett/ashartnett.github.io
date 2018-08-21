@@ -6,13 +6,14 @@ permalink: /teaching/
 ---
 I have taught a variety of courses related to my research in political science and Middle East studies. In 2017, I was awarded the distinction of "Best Postgraduate Teacher" from the Oxford University Student Union.
 
-###Yale University, Department of Political Science
-- Political Economy of Authoritarianism (UG/G, Spring 2019)
+### Yale University, Department of Political Science
+- Political Economy of Authoritarianism (UG/G, Instructor, Spring 2019)
 
 ### University of Oxford, Department of Politics and International Relations
-- Middle East Politics (UG, 2013-2017) 
-- International Relations of the Middle East (UG, 2013-2015)
-- Quantitative Methods for Politics and Sociology (UG, 2014-2015)
+Oxford uses the tutorial system, where tutors teach 2-5 students in small classes. I taught all tutorials for my students in the following courses:
+- Middle East Politics (UG, Tutor, 2013-2017) 
+- International Relations of the Middle East (UG, Tutor, 2013-2015)
+- Quantitative Methods for Politics and Sociology (UG, Tutor, 2014-2015)
 - Politics in Europe  (UG, 2015, 2017)
 
 I also supervised an undergraduate dissertation on the politics of state-sponsored Islamic education in MENA (2017-2018).
