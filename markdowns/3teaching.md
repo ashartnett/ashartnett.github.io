@@ -14,12 +14,12 @@ Oxford uses the tutorial system, where tutors teach 2-5 students in small classe
 - Middle East Politics (UG, Tutor, 2013-2017) 
 - International Relations of the Middle East (UG, Tutor, 2013-2015)
 - Quantitative Methods for Politics and Sociology (UG, Tutor, 2014-2015)
-- Politics in Europe  (UG, 2015, 2017)
+- Politics in Europe  (UG, Tutor, 2015, 2017)
 
 I also supervised an undergraduate dissertation on the politics of state-sponsored Islamic education in MENA (2017-2018).
 
 ### British Institute in Amman, Jordan
-- Political Economy of Rural Development in MENA (G, 2016)
+- Political Economy of Rural Development in MENA (G, Instructor, 2016)
 
 ## Prospective Classes
 I can teach a number of courses – at the graduate and undergraduate level – related to my research, comparative political economy (CPE), comparative politics (CP), and research methodology. Please contact me for sample syllabi.
