@@ -6,4 +6,4 @@ permalink: /CV
 invisible: false
 ---
 
-For a copy of my CV, please click [here](/assets/HARTNETT_CV_June2018.pdf) (Updated June 2018)
+For a copy of my CV, please click [here](/assets/HARTNETT_CV_August2018.pdf) (Updated August 2018)
