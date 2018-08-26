@@ -21,7 +21,7 @@ My dissertation contributes a new understanding of redistribution under authorit
 
 "In the Shadows? Informal Enterprise and the State in Jordan" with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University)
 
-"The Colonial Origins of State Repression in MENA'' with Prof. Elizabeth Nugent (Yale) and Dr. Nicholas Lotito (Yale).
+["The Colonial Origins of State Repression in MENA''](https://ssrn.com/abstract=3239093) with Prof. Elizabeth Nugent (Yale) and Dr. Nicholas Lotito (Yale).
 
 ### Encyclopedia Entries
 
