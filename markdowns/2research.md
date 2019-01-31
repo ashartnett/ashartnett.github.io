@@ -12,19 +12,21 @@ My dissertation contributes a new understanding of redistribution under authorit
 
 ### Peer-Reviewed Publications
 
-Hartnett, A. (2018) "The Effect of Refugee Integration on Migrant Labor in Jordan." _Review of Middle East Studies_, 52(2): 1–20.
+Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
-
-"Do Transfers Buy Votes? Evidence from Poland" with Alexander Gard-Murray. (_under review_)
-
 "Colonial Legacies of Redistributive Conflict: Land Reform in the Middle East and North Africa."
 
 "Landed Elites and the Arrested Development of Iraqi State Capacity."
 
-"In the Shadows? Informal Enterprise and the State in Jordan" with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University)
+"In the Shadows? Informal Enterprise and the State in Jordan." with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University)
 
-["The Colonial Origins of State Repression in MENA''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
+["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
+
+["European Union Funding and Sub-National Euroscepticism: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray (Harvard University).
+
+### Book Chapters
+"Colonialism and Long-Run Economic Development in MENA" with Gabriel Koehler-Derrick and Melani Cammett (to be included in the Oxford University Press Handbook on Politics of Muslim Societies, edited by Melani Cammett and Pauline Jones. _In progress_.
 
 ### Encyclopedia Entries
 
@@ -36,9 +38,9 @@ Hartnett, A. (2014) Review of _Globalization & Social Movements: Islamism, Femin
 
 
 ### Policy Papers, Opinion Pieces, and Essays
-["Colonial Legacies of Uneven State Development in MENA,"](https://pomeps.org/2018/08/01/colonial-legacies-of-uneven-state-development-in-mena/) POMEPS Collection on Social Policy in the Middle East, October 19, 2018.
+["Colonial Legacies of Uneven State Development in MENA."](https://pomeps.org/2018/08/01/colonial-legacies-of-uneven-state-development-in-mena/) POMEPS Collection on Social Policy in the Middle East, October 19, 2018.
 
-["Can Jordan's New Prime Minister Reform the Government?,"](https://www.washingtonpost.com/news/monkey-cage/wp/2018/06/13/can-jordans-new-prime-minister-reform-the-government/?utm_term=.c82dc5d4be8e) The Monkey Cage Blog, _The Washington Post_, June 13, 2018.
+["Can Jordan's New Prime Minister Reform the Government?"](https://www.washingtonpost.com/news/monkey-cage/wp/2018/06/13/can-jordans-new-prime-minister-reform-the-government/?utm_term=.c82dc5d4be8e) The Monkey Cage Blog, _The Washington Post_, June 13, 2018.
 
 Wilson, G and Hartnett, A. Guidance on Fragile States for the Stabilisation Unit. United Kingdom Department for International Development,  June 2016.
 

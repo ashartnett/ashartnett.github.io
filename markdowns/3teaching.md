@@ -7,7 +7,7 @@ permalink: /teaching/
 I have taught a variety of courses related to my research in political science and Middle East studies. In 2017, I was awarded the distinction of "Best Postgraduate Teacher" from the Oxford University Student Union.
 
 ### Yale University, Department of Political Science
-- Political Economy of Authoritarianism (UG/G, Instructor, Spring 2019)
+- Political Economy of Authoritarianism (UG/G, Instructor, Spring 2019).  (Syllabus [here](/assets/PolEcon_Authoritarianism.pdf), updated January 14, 2019)
 
 ### University of Oxford, Department of Politics and International Relations
 Oxford uses the tutorial system, where tutors teach 2-5 students in small classes. I taught all tutorials for my students in the following courses:
