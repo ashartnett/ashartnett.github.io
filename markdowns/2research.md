@@ -15,11 +15,11 @@ My dissertation contributes a new understanding of redistribution under authorit
 Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
+["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University). _Under Review_
+
 "Colonial Legacies of Redistributive Conflict: Land Reform in the Middle East and North Africa."
 
 "Landed Elites and the Arrested Development of Iraqi State Capacity."
-
-"In the Shadows? Informal Enterprise and the State in Jordan." with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University)
 
 ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
 
