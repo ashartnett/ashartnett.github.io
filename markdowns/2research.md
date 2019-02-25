@@ -38,7 +38,9 @@ Hartnett, A. (2014) Review of _Globalization & Social Movements: Islamism, Femin
 
 
 ### Policy Papers, Opinion Pieces, and Essays
-["Colonial Legacies of Uneven State Development in MENA."](https://pomeps.org/2018/08/01/colonial-legacies-of-uneven-state-development-in-mena/) POMEPS Collection on Social Policy in the Middle East, October 19, 2018.
+Laith Fakhri Al-Ajlouni, Allison Spencer Hartnett. ["Making the Economy Political in Jordan’s Tax Revolts,"](https://merip.org/2019/02/making-the-economy-political-in-jordans-tax-revolts/) _Middle East Report Online_, February 24, 2019.
+
+["Colonial Legacies of Uneven State Development in MENA,"](https://pomeps.org/2018/08/01/colonial-legacies-of-uneven-state-development-in-mena/) POMEPS Collection on Social Policy in the Middle East, October 19, 2018.
 
 ["Can Jordan's New Prime Minister Reform the Government?"](https://www.washingtonpost.com/news/monkey-cage/wp/2018/06/13/can-jordans-new-prime-minister-reform-the-government/?utm_term=.c82dc5d4be8e) The Monkey Cage Blog, _The Washington Post_, June 13, 2018.
 
