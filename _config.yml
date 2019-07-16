@@ -30,7 +30,8 @@ favicon:
 # Build settings
 markdown: kramdown
 remote_theme: gaalcaras/academic
-plugins:
+#plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-remote-theme
 exclude:

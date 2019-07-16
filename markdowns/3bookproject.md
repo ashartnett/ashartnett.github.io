@@ -1,0 +1,16 @@
+---
+layout: page
+lang: en
+title: Book Project
+permalink: /book/
+---
+
+#### __Independent Autocrats: Redistributive Legacies of Colonial Rule in the Middle East and North Africa__
+
+A growing literature on land reform under autocracy shows that leaders often use the expropriation and redistribution to disempower incumbent elites and to signal a credible commitment to potential coalition members. Although these strategies have been found to extend leader tenure in other regions, I find that leaders that pursue land reform in the Middle East and North Africa (MENA) region have shorter tenures than non-reformers. This finding motivates my central research question: why are redistributive autocrats less likely to endure than their non-redistributive counterparts? 
+
+The answer, I argue, lies in understanding how leaders in post-colonial states resolve residual intra-elite conflict inherited from the colonial period.  The legacies of European colonialism impacted the inclusivity of elite coalitions. In countries with legacies of exclusive coalitions, autocrats inherited more intense demands for redistribution than in countries with legacies of inclusive coalitions. Strong demands from previously excluded elites drove leaders to pursue radical land reforms post-independence. Concurrently, radical reformers must decide how to attract a loyal support coalition after redistribution is underway. Radical reformers who simultaneously extend cooptive state capacity through investment in and provision of ``soft'' institutions (e.g., agricultural cooperatives, health, education) are more likely to send a credible signal to potential members of an expanded supporting coalition. Alternatively, autocrats that pursue radical reform and rely on the expansion of repressive institutions (e.g., the military, police) are less likely to attract new supporters and are consequently more vulnerable to ouster.
+
+I provide mixed-methods evidence to process trace these dynamics at the cross-national and sub-national levels. First, I conduct a medium-N quantitative analysis to show how colonial legacies in MENA constrained regimes' post-independence land redistribution strategies. Based on an original cross-country data set, my empirical findings suggest that radical, elite-targeted land redistribution occurs when the regime inherits an exclusive elite coalition from colonial rule on one hand, and a rising urban professional elite demanding reform on the other. Leaders that adopt these radical reforms are shown to be more likely to suffer irregular exit than those that adopt conservative reforms or none at all. In the second half of the book, I process trace these dynamics using detailed case studies of Jordan, Egypt, and Iraq, where I draw on subnational survey and observational data, as well as evidence from over 80 elite and stakeholder interviews, political biographies, government documents, and other primary-source Arabic material gathered during eighteen months of fieldwork in Jordan, the UK and the United States.
+
+My manuscript was accepted to the [Project on Middle East Political Science Junior Scholars Book Workshop](https://pomeps.org/call-for-proposals-junior-scholars-book-development-workshop-2019) (November 2019) and my book conference will be held at Yale in Spring 2020.
