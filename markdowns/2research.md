@@ -11,12 +11,12 @@ permalink: /research/
 
 ### Under Review
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Princeton University). 
- - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
  - ["Does Aid Buy Trust: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray (Harvard University). 
 
 ### Working Papers
- - "Landed Elites and the Arrested Development of Iraqi State Capacity."
  - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
+ - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
+ - "Landed Elites and the Arrested Development of Iraqi State Capacity."
 
 ### Book Chapters
  - "Colonialism and Long-Run Economic Development in MENA" with Gabriel Koehler-Derrick and Melani Cammett (to be included in the Oxford University Press Handbook on Politics of Muslim Societies, edited by Melani Cammett and Pauline Jones. _In progress_.

@@ -19,6 +19,5 @@ This project is a major data collection effort with [Prof. Melani Cammett](http:
 
 ### Data Collection in Progress
 - _Colonial Origins of Coercive Institutions in the Middle East_ with [Prof. Elizabeth Nugent](http://www.elizabethnugent.com) and [Dr. Nicholas Lotito](https://nicklotito.com/)
-
 - _Legislating in Non-Democracies: a comprehensive dataset of laws passed in MENA states (1945-2017)_ with Mounir Mahmalat (Dublin City University Business School)
 
