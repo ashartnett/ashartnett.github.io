@@ -8,7 +8,7 @@ seo:
   title: Allison Spencer Hartnett
 ---
 
-​I am a post-doctoral fellow in the [Leitner Program on Political Economy](https://leitner.yale.edu/) and a lecturer of [political science](https://politicalscience.yale.edu/) at Yale University, where I write and teach about the political economy of authoritarianism, development, and the Middle East and North Africa. You can reach me at allison.hartnett@yale.edu.
+​I am a post-doctoral fellow in the [Leitner Program on Political Economy](https://leitner.yale.edu/) and a lecturer of [political science](https://politicalscience.yale.edu/) at Yale University, where I write and teach about the political economy of authoritarianism, development, and the Middle East and North Africa. From July 2020, I will be an Assistant Professor of Political Science at the [University of Southern California](https://dornsife.usc.edu/poir/).
 
 My book project examines the management of redistributive conflict in autocracies, specifically the politics surrounding land reform in MENA states. The analysis relies on interviews, surveys, and original datasets from my extensive archival and field research in Jordan, Morocco, Egypt, the United States, and the United Kingdom. My research has been supported by the [American Center for Oriental Research](https://www.acorjordan.org/), the [Council of American Overseas Research Centers](https://www.caorc.org/), and the [Centre for British Research in the Levant](http://cbrl.org.uk), among others.
 
