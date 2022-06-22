@@ -7,9 +7,10 @@ permalink: /teaching/
 I have taught a variety of courses related to my research in comparative politics, political economy, and Middle East studies. 
 
 ### University of Southern California, Department of Political Science and International Relations
-- POIR 641: Comparative Politics II (Field Seminar for PhD students, Spring 2021)
+- POIR 641: Comparative Politics II (Field Seminar for PhD students, Spring 2021, Spring 2022)
+- POSC 499: Colonialism and Decolonization in the Middle East and North Africa (UG, Fall 2022)
 - IR 499: State-Building and Institutions in the Middle East and North Africa (UG, Spring 2021)
-- POSC 120: Comparative Politics (UG, Fall 2020) (Syllabus [here](/assets/Pol120_ComparativePolitics_Fall2020.pdf), updated October 25, 2020)
+- POSC 120: Comparative Politics (UG, Fall 2020, Fall 2022) (Syllabus [here](/assets/Pol120_ComparativePolitics_Fall2020.pdf), updated October 25, 2020)
 
 ### Yale University, Department of Political Science
 - Political Economy of the Middle East and North Africa (UG/G, Instructor, Spring 2020)

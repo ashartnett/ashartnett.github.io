@@ -5,20 +5,29 @@ title: Research
 permalink: /research/
 ---
 
-### Peer-Reviewed Publications
+### Book Manuscript
+ - _Regressive Redistribution: The Politics of Inequality in Post-Colonial Autocracies_ (In progress)
+
+### Peer-Reviewed Journal Articles
 
  - Cheng, Cindy, Joan Barceló, Allison Hartnett, Robert Kubinec, and Luca Messerschmidt. 2020. COVID-19 Government Response Event Dataset (CoronaNet v1.0). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-020-0909-7](https://doi.org/10.1038/s41562-020-0909-7)	
  - Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
+ - “Rural Intra-Elite Conflict, Colonization, and the Demand for Power-Sharing: Evidence from Khedival Egypt,” with Mohamed
+Saleh (LSE).
+ - “State Building and Regressive Redistribution: Evidence from Colonial Property Reforms in Jordan.”
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Yale-NUS). 
  - ["Does Aid Buy Trust: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray (Harvard). 
  - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
  - "Selectorate Dynamics in Autocracies: colonial and post-colonial minister appointments in the Middle East and North Africa."
  - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
+ - "Official Islam: Why Do Governments Invest in Religious Education?" with Ahmed Ezzeldin Mohamed (Columbia).
 
 ### Book Chapters
- - "Colonialism and Long-Run Economic Development in MENA" with Gabriel Koehler-Derrick and Melani Cammett (to be included in the Oxford University Press Handbook on Politics of Muslim Societies, edited by Melani Cammett and Pauline Jones. _In progress_.
+- Hartnett, A.S. (2021). “The Arab Spring.” Oxford Bibliographies in Political Science. [https://doi.org/
+10.1093/OBO/9780199756223-0337](https://doi.org/10.1093/OBO/9780199756223-0337) (Peer-Reviewed)
+- Cammett, M.,  A.S. Hartnett, and G. Koehler-Derrick (2021). “Colonial Legacies and Welfare Provision in the Middle East and North Africa.” Oxford University Press Handbook on Politics of Muslim Societies, edited by Melani Cammett and Pauline Jones. [https://doi.org/10.1093/oxfordhb/9780190931056.013.11](https://doi.org/10.1093/oxfordhb/9780190931056.013.11) (Peer-Reviewed).
 
 ### Encyclopedia Entries
  - Hartnett, A. (2011) Entries for Energy Policy in Egypt, Jordan, Libya, and Qatar in _Encyclopedia of Energy_. Croton-on-Hudson, New York: Golson Media.
@@ -27,11 +36,11 @@ permalink: /research/
  - Hartnett, A. (2014) Review of _Globalization & Social Movements: Islamism, Feminism and Social Justice_, 2nd ed. by Valentine Moghadam. St. Antony's International Review, 10(1): 135-37.
 
 ### Works in Progress
- - "Intra-Elite Conflict and the Demand for Democratization: Evidence from Khedival Egypt," with Mohamed Saleh (IAST).
  - "After Empires: Legacies of Foreign Rule and Long-Run Fiscal Capacity in Arab States," with Yusuf Magiya (Columbia).
- - "Landed Elites and State Capacity in MENA."
- - "Taxation and Representation Under Autocracy: Evidence from Jordan," with Laith Al-Ajlouni (Central European University).
  - "Becoming Jordanian: development and citizenship in rural Jordan," with Carol Palmer (CBRL-Amman).
+ - “Students Into Iraqis: The Politics of Education in Ba’athist Iraq,” Christiana Parreira (Princeton).
+ - “Private Education and the Public Sector: Evidence from Jordan,” with Gabriel Koehler-Derrick (Brown)
+and Melani Cammett (Harvard).
 
 ### Policy Papers, Opinion Pieces, and Essays
  - Allison Spencer Hartnett, Ezzeldeen al-Natour, Laith al-Ajlouni. ["Drastic Measures: Coercive Enforcement and Economic Effects of Pandemic Suppression in Jordan,"](https://pomeps.org/drastic-measures-coercive-enforcement-and-economic-effects-of-pandemic-suppression-in-jordan) POMEPS Collection: The COVID-19 Pandemic in North Africa and the Middle East, April, 2020.
