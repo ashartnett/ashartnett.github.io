@@ -9,20 +9,18 @@ permalink: /research/
  - _Regressive Redistribution: The Politics of Inequality in Post-Colonial Autocracies_ (In progress)
 
 ### Peer-Reviewed Journal Articles
-
  - Cheng, Cindy, Joan Barceló, Allison Hartnett, Robert Kubinec, and Luca Messerschmidt. 2020. COVID-19 Government Response Event Dataset (CoronaNet v1.0). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-020-0909-7](https://doi.org/10.1038/s41562-020-0909-7)	
  - Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
- - “Rural Intra-Elite Conflict, Colonization, and the Demand for Power-Sharing: Evidence from Khedival Egypt,” with Mohamed
-Saleh (LSE).
- - “State Building and Regressive Redistribution: Evidence from Colonial Property Reforms in Jordan.”
+ - “Rural Intra-Elite Conflict, Colonization, and the Demand for Power-Sharing: Evidence from Khedival Egypt,” with Mohamed Saleh (LSE). (Awarded Best Paper on Social Entrepreneurship and Inclusion (APSA Inequality Section 2021) and Best Paper Honorable Mention (APSA MENA Section 2022).)
+ - “After the Commons: Legacies of Colonial Land Privatization on Economic Opportunity in Jordan.”
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Yale-NUS). 
- - ["Does Aid Buy Trust: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray (Harvard). 
- - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Yale) and Nicholas Lotito (Yale).
+ - ["Does Aid Buy Trust? Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray. 
+ - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Princeton) and Nicholas Lotito (Princeton).
  - "Selectorate Dynamics in Autocracies: colonial and post-colonial minister appointments in the Middle East and North Africa."
  - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
- - "Official Islam: Why Do Governments Invest in Religious Education?" with Ahmed Ezzeldin Mohamed (Columbia).
+ - "Official Islam: Why Do Governments Invest in Religious Education?" with Ahmed Ezzeldin Mohamed (Toulouse).
 
 ### Book Chapters
 - Hartnett, A.S. (2021). “The Arab Spring.” Oxford Bibliographies in Political Science. [https://doi.org/
@@ -36,11 +34,11 @@ Saleh (LSE).
  - Hartnett, A. (2014) Review of _Globalization & Social Movements: Islamism, Feminism and Social Justice_, 2nd ed. by Valentine Moghadam. St. Antony's International Review, 10(1): 135-37.
 
 ### Works in Progress
- - "After Empires: Legacies of Foreign Rule and Long-Run Fiscal Capacity in Arab States," with Yusuf Magiya (Columbia).
- - "Becoming Jordanian: development and citizenship in rural Jordan," with Carol Palmer (CBRL-Amman).
- - “Students Into Iraqis: The Politics of Education in Ba’athist Iraq,” Christiana Parreira (Princeton).
- - “Private Education and the Public Sector: Evidence from Jordan,” with Gabriel Koehler-Derrick (Brown)
+ - “Students Into Iraqis: The Politics of Education in Ba’athist Iraq,” Christiana Parreira (Geneva).
+ - “Private Education and the Public Sector: Evidence from Jordan,” with Gabriel Koehler-Derrick (NYUAD)
 and Melani Cammett (Harvard).
+ - "Becoming Jordanian: development and citizenship in rural Jordan," with Carol Palmer (CBRL-Amman).
+ - "After Empires: Legacies of Foreign Rule and Long-Run Fiscal Capacity in Arab States," with Yusuf Magiya (Columbia).
 
 ### Policy Papers, Opinion Pieces, and Essays
  - Allison Spencer Hartnett, Ezzeldeen al-Natour, Laith al-Ajlouni. ["Drastic Measures: Coercive Enforcement and Economic Effects of Pandemic Suppression in Jordan,"](https://pomeps.org/drastic-measures-coercive-enforcement-and-economic-effects-of-pandemic-suppression-in-jordan) POMEPS Collection: The COVID-19 Pandemic in North Africa and the Middle East, April, 2020.
