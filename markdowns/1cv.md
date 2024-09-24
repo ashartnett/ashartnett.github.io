@@ -6,10 +6,10 @@ permalink: /CV
 invisible: false
 ---
 
-For a copy of my CV, please click [here](/assets/Hartnett_CV_2023.pdf) (Updated July 2023)
+For a copy of my CV, please click [here](/assets/Hartnett_CV_Aug2024.pdf) (Updated September 2024)
 
 <center>
-<a href="/assets/Hartnett_CV_June2022.pdf" rel="Hartnett CV" style="text-decoration: none">
+<a href="/assets/Hartnett_CV_Aug2024.pdf" rel="Hartnett CV" style="text-decoration: none">
     <img src="/assets/smallcv.jpg" width="700" hspace="20" />
 </a>
 </center>
