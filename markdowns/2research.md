@@ -9,13 +9,13 @@ permalink: /research/
  - _Regressive Redistribution: The Politics of Inequality in Post-Colonial Autocracies_ (In progress)
 
 ### Peer-Reviewed Journal Articles
- - Hartnett, A. and M. Saleh (2024). ``Precolonial Elites and Colonial Redistribution of Political Power.'' EPR Working Paper Series, No. DP18715. Download the most recent version [here](https://cepr.org/publications/dp18715). (Forthcoming, _American Political Science Review_)
+ - Hartnett, A. and M. Saleh (2024). ``Precolonial Elites and Colonial Redistribution of Political Power.''_American Political Science Review_, Forthcoming. Download the most recent version [here](https://doi.org/10.1017/S0003055424001321). 
  -- Previous Draft awarded Best Paper on Social Entrepreneurship and Inclusion (APSA Inequality Section 2021) and Best Paper Honorable Mention (APSA MENA Section 2022).
  - Cheng, Cindy, Joan Barceló, Allison Hartnett, Robert Kubinec, and Luca Messerschmidt. 2020. COVID-19 Government Response Event Dataset (CoronaNet v1.0). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-020-0909-7](https://doi.org/10.1038/s41562-020-0909-7)	
  - Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
- - ``The Glorious Revolution that Wasn’t: Rural Elite Conflict and Demand for Democratization.''
+ - Hartnett, A.S. and M. Saleh. ``The Glorious Revolution that Wasn’t: Rural Elite Conflict and Demand for Democratization.''
  - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization''
  - Hartnett, A.S. and A.E. Mohamed. ``Monopolizing Religious Markets: Religious Opposition and Autocratic Investments in Religious Education.''
  - Hartnett, A.S. and T. Babalola. “In the Eye of the Beholder: Proximity to Power and the Relativity of Regime Type.”
