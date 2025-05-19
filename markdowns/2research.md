@@ -17,12 +17,12 @@ permalink: /research/
  - Hartnett, A. (2018) ["The Effect of Refugee Integration on Migrant Labor in Jordan."](https://www.cambridge.org/core/journals/review-of-middle-east-studies/article/effect-of-refugee-integration-on-migrant-labor-in-jordan/95541D86AA4B631E4F6DD5B4DB021B54/share/609691b425c4ee242e3f2ce060e5f21b1d5b430f#) _Review of Middle East Studies_, 52(2): 263-282.
 
 ### Working Papers
- - Hartnett, A.S. and M. Saleh. ``The Glorious Revolution that Wasn’t: Rural Elite Conflict and Demand for Democratization.''
+ - Hartnett, A.S. and M. Saleh. [``The Other First Wave: Elite Conflict and Democratization in Agrarian Autocracies.''](https://cepr.org/publications/dp20260) CEPR Discussion Paper No. DP20260. Published online May 17, 2025. _Under Review_.
  - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization''
  - Hartnett, A.S. and A.E. Mohamed. ``Monopolizing Religious Markets: Religious Opposition and Autocratic Investments in Religious Education.''
  - Hartnett, A.S. and T. Babalola. “In the Eye of the Beholder: Proximity to Power and the Relativity of Regime Type.”
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Yale-NUS). 
- - ["Does Aid Buy Trust? Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray. 
+ - ["Transfers, Trust, and Rural Populism: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray, Lotem Halevy, and Tyler Brown. 
  - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Princeton) and Nicholas Lotito (Princeton).
  - "Selectorate Dynamics in Autocracies: colonial and post-colonial minister appointments in the Middle East and North Africa."
  - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
