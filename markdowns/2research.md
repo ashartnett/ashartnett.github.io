@@ -20,14 +20,14 @@ permalink: /research/
  - Hartnett, A.S. and M. Saleh. [``The Other First Wave: Elite Conflict and Democratization in Agrarian Autocracies.''](https://cepr.org/publications/dp20260) CEPR Discussion Paper No. DP20260. Published online May 17, 2025. _Under Review_.
  - Mohamed, A.E. and A.S. Hartnett. [``Strategic Indoctrination and Political Control: The Case of Religious Schooling.''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543559) _Under Review_.
  - Hartnett, A.S. and M.Z. Rogers. ``Authoritarian Malapportionment.''
- - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization''
+ - Moshrif, R., M. Saleh, and A.S. Hartnett. ``Redistribution Without Inclusion: Land Reform and Political Turnover in Egypt, 1924--1976.''
+ - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization.''
  - Hartnett, A.S., T. Babalola, J. Sakr. “In the Eye of the Beholder: Proximity to Power and the Relativity of Regime Type.”
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Yale-NUS). 
  - ["Transfers, Trust, and Rural Populism: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray. 
  - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Princeton) and Nicholas Lotito (Princeton).
  - "Selectorate Dynamics in Autocracies: colonial and post-colonial minister appointments in the Middle East and North Africa."
  - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
-
 
 ### Book Chapters
 - Hartnett, A.S. (2021). “The Arab Spring.” Oxford Bibliographies in Political Science. [https://doi.org/
