@@ -9,7 +9,7 @@ permalink: /research/
  - _Regressive Redistribution: The Politics of Inequality in Post-Colonial Autocracies_ (In progress)
 
 ### Peer-Reviewed Journal Articles
- - Hartnett, A. and M. Saleh (2024). ``Precolonial Elites and Colonial Redistribution of Political Power.''_American Political Science Review_, Forthcoming. Download the most recent version [here](https://doi.org/10.1017/S0003055424001321). 
+ - Hartnett, A. and M. Saleh (2025). ``Precolonial Elites and Colonial Redistribution of Political Power.[''_American Political Science Review_.](https://www.cambridge.org/core/journals/american-political-science-review/article/precolonial-elites-and-colonial-redistribution-of-political-power/026AFFB7F59A53634270D82D2D69F924). 
  -- Replication data available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TELPAY)
  -- Previous Draft awarded Best Paper on Social Entrepreneurship and Inclusion (APSA Inequality Section 2021) and Best Paper Honorable Mention (APSA MENA Section 2022).
  - Cheng, Cindy, Joan Barceló, Allison Hartnett, Robert Kubinec, and Luca Messerschmidt. 2020. COVID-19 Government Response Event Dataset (CoronaNet v1.0). _Nature Human Behaviour_. [https://doi.org/10.1038/s41562-020-0909-7](https://doi.org/10.1038/s41562-020-0909-7)	
@@ -18,11 +18,12 @@ permalink: /research/
 
 ### Working Papers
  - Hartnett, A.S. and M. Saleh. [``The Other First Wave: Elite Conflict and Democratization in Agrarian Autocracies.''](https://cepr.org/publications/dp20260) CEPR Discussion Paper No. DP20260. Published online May 17, 2025. _Under Review_.
+ - Mohamed, A.E. and A.S. Hartnett. [``Strategic Indoctrination and Political Control: The Case of Religious Schooling.''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543559) _Under Review_.
+ - Hartnett, A.S. and M.Z. Rogers. ``Authoritarian Malapportionment.''
  - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization''
- - Hartnett, A.S. and A.E. Mohamed. ``Monopolizing Religious Markets: Religious Opposition and Autocratic Investments in Religious Education.''
- - Hartnett, A.S. and T. Babalola. “In the Eye of the Beholder: Proximity to Power and the Relativity of Regime Type.”
+ - Hartnett, A.S., T. Babalola, J. Sakr. “In the Eye of the Beholder: Proximity to Power and the Relativity of Regime Type.”
  - ["In the Shadows? Informal Enterprise and the State in Jordan."](https://www.hbs.edu/faculty/Pages/item.aspx?num=55770) with Kristin Fabbe (Harvard Business School) and Steve Monroe (Yale-NUS). 
- - ["Transfers, Trust, and Rural Populism: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray, Lotem Halevy, and Tyler Brown. 
+ - ["Transfers, Trust, and Rural Populism: Evidence from Poland."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3325608) with Alexander Gard-Murray. 
  - ["The Colonial Origins of State Repression in MENA.''](https://ssrn.com/abstract=3239093) with Elizabeth Nugent (Princeton) and Nicholas Lotito (Princeton).
  - "Selectorate Dynamics in Autocracies: colonial and post-colonial minister appointments in the Middle East and North Africa."
  - "Surviving Decolonization: Elite Expropriation and Autocratic Leader Tenure in Post-Colonial Contexts."
@@ -38,12 +39,6 @@ permalink: /research/
 
 ### Book Reviews
  - Hartnett, A. (2014) Review of _Globalization & Social Movements: Islamism, Feminism and Social Justice_, 2nd ed. by Valentine Moghadam. St. Antony's International Review, 10(1): 135-37.
-
-### Works in Progress
- - “Students Into Iraqis: The Politics of Education in Ba’athist Iraq,” Christiana Parreira (Geneva).
- - “Private Education and the Public Sector: Evidence from Jordan,” with Gabriel Koehler-Derrick (NYUAD) and Melani Cammett (Harvard).
- - "Becoming Jordanian: development and citizenship in rural Jordan," with Carol Palmer (CBRL-Amman).
- - "After Empires: Legacies of Foreign Rule and Long-Run Fiscal Capacity in Arab States," with Yusuf Magiya (Columbia).
 
 ### Policy Papers, Opinion Pieces, and Essays
  - Allison Spencer Hartnett, Ezzeldeen al-Natour, Laith al-Ajlouni. ["Drastic Measures: Coercive Enforcement and Economic Effects of Pandemic Suppression in Jordan,"](https://pomeps.org/drastic-measures-coercive-enforcement-and-economic-effects-of-pandemic-suppression-in-jordan) POMEPS Collection: The COVID-19 Pandemic in North Africa and the Middle East, April, 2020.
