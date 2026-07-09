@@ -5,7 +5,7 @@ title: Book Project
 permalink: /book/
 ---
 
-#### __Regressive Redistribution: The Politics of Inequality in Post-Colonial Autocracies__
+#### __Regressive Redistribution: Elite Origins of Inequality in Post-Colonial Autocracies__
 
 A growing literature on land redistribution under autocracy shows that authoritarian regimes often pursue land reforms under with the ostensibly progressive motives of disempowering landed elites and restructuring rural order. Such land reforms became a central policy in decolonizing regimes, where anti-colonial politics drove regimes to redress the inequalities associated with colonial regimes and their domestic elite allies. Despite land redistribution's central political and economic function in the process of decolonization, I find that post-colonial land reforms rarely achieved their stated goals and that more often than not, such reforms exacerbated inequality in the long-term.
 
