@@ -19,7 +19,7 @@ permalink: /research/
 
 ### Working Papers
  - Hartnett, A.S. and M. Saleh. [``The Other First Wave: Elite Conflict and Democratization in Agrarian Autocracies.''](https://cepr.org/publications/dp20260) CEPR Discussion Paper No. DP20260. Published online May 17, 2025. _Under Review_.
- - Mohamed, A.E. and A.S. Hartnett. [``Strategic Indoctrination and Political Control: The Case of Religious Schooling.''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543559) _Under Review_.
+ - Mohamed, A.E. and A.S. Hartnett. [``Strategic Indoctrination and Political Control: The Case of Religious Schooling.''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543559) _Revise and Resubmit, Comparative Political Studies_.
  - Hartnett, A.S. and M.Z. Rogers. ``Authoritarian Malapportionment.''
  - Moshrif, R., M. Saleh, and A.S. Hartnett. ``Redistribution Without Inclusion: Land Reform and Political Turnover in Egypt, 1924--1976.''
  - Hartnett, A.S. ``After the Commons: Economic Opportunity and Colonial Legacies of Land Privatization.''
